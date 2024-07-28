@@ -55,7 +55,7 @@ function App() {
         To Do List Application
       </h1> */}
 
-      <div className="bg-[#2d3439] min-h-screen py-8"
+      <div className=" min-h-screen py-8"
          style={{
           backgroundImage: 'url(`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVC1i2z3yuSZbiYsgRVbPyoVxnHzj-oIRnZxHvRPRTsJnrqZMkG-NsQKXTJVqVpAcPkZA&usqp=CAU`)',
           backgroundSize: 'cover',
