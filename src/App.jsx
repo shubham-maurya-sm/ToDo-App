@@ -55,11 +55,8 @@ function App() {
         To Do List Application
       </h1> */}
 
-      <div className=" min-h-screen py-8"
-         style={{
-          backgroundImage: 'url(`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVC1i2z3yuSZbiYsgRVbPyoVxnHzj-oIRnZxHvRPRTsJnrqZMkG-NsQKXTJVqVpAcPkZA&usqp=CAU`)',
-          backgroundSize: 'cover',
-          backgroundPosition: 'center',
+      <div className="bg-[#2d3439] min-h-screen py-8"
+        
         }}>
         <div className="w-full max-w-2xl mx-auto shadow-md rounded-lg px-4 py-3 text-white">
           <h1 className="text-2xl font-bold text-center mb-8 mt-2">
